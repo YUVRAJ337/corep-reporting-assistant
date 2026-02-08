@@ -1,0 +1,15 @@
+CRR Article 26 – Capital instruments
+Paid-up ordinary shares shall be classified as Common Equity Tier 1 capital instruments
+where they are issued directly by the institution and fully paid up.
+
+CRR Article 26(1)(c) – Retained earnings
+Retained earnings shall be included in Common Equity Tier 1 capital.
+This includes interim or year-end profits that have not been distributed.
+
+CRR Article 36 – Deductions from CET1
+Institutions shall deduct intangible assets, including goodwill,
+from Common Equity Tier 1 capital.
+
+CRR Article 50 – Calculation of CET1
+Common Equity Tier 1 capital equals the sum of capital instruments
+and retained earnings, minus regulatory deductions.
